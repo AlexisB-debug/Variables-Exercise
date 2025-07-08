@@ -10,7 +10,7 @@
             bool kittenIsHealthy = true;
             double kittenWeightInPounds = 3.0d;
             decimal kittenCostInUSD = 700.00m;
-            Console.WriteLine("A Purrfect Story!");
+            Console.WriteLine("A Priceless Purr!");
             Console.WriteLine($"Kris Kringle gifted me a ragdoll kitten whom the veterinarian named {kittenName}.");
             Console.WriteLine($"The birth certificate reads {kittenSex} so the state knows she's a girl!");
             Console.WriteLine($"She was {kittenAgeInWeeks} weeks young when I received her.");
